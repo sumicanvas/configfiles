@@ -1,2 +1,4 @@
 # configfiles
-configuration files
+configuration filesfor MySQL.
+
+
